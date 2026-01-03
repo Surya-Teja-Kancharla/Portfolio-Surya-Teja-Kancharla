@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react-swc";
 
 export default defineConfig({
   plugins: [react()],
-  // base: "/Portfolio-Surya-Teja-Kancharla/",
+  base: "/Portfolio-Surya-Teja-Kancharla/",
 });
