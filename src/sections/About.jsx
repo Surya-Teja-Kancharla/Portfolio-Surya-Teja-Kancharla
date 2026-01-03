@@ -11,7 +11,7 @@ export default function About() {
 
           <p className="text-lg mb-4">
             I am a full-stack developer with strong expertise in building
-            MERN-based applications, machine-learning–backed systems, and
+            MERN-based applications, machine-learning backed systems, and
             automation-driven solutions.
           </p>
 
