@@ -22,7 +22,7 @@ export default function Home() {
   }, []);
 
   return (
-    <section id="home" className="min-h-screen flex flex-col md:flex-row items-center justify-center gap-12 px-6 md:px-20 pt-32">
+    <section id="home" className="min-h-screen flex flex-col md:flex-row items-center justify-center gap-12 px-6 md:px-20 pt-16 md:pt-20 pb-0">
       <div className="max-w-xl">
         <h3 className="text-2xl font-semibold">Hi, my name is</h3>
         <h1 className="text-5xl font-bold my-2">Surya Teja Kancharla</h1>
@@ -31,9 +31,9 @@ export default function Home() {
         </h3>
 
         <p className="text-lg mt-6 max-w-xl">
-          Full stack developer with strong expertise in MERN, ML-backed applications,
-          and automation-driven systems. Passionate about building scalable,
-          high-impact software.
+          A full-stack developer specializing in MERN applications, machine-learning powered systems, 
+          and automation-driven solutions. I focus on building software that delivers 
+          real-world impact. 
         </p>
 
         <SocialIcons />

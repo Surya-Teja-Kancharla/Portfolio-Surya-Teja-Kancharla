@@ -36,6 +36,6 @@ export const skills = {
     "Deep Learning",
     "Natural Language Processing",
     "Cloud Computing",
-    "ML for Cybersecurity",
+    "Machine Learning for Cybersecurity",
   ],
 };
