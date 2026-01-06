@@ -51,5 +51,21 @@ export const projects = [
     ],
     github: "https://github.com/Surya-Teja-Kancharla/Intra-School-Event-Management-System",
     live: null,
+  },
+  {
+    title: "ECG Decision Support System (ECG-DSS)",
+    desc: "An end-to-end deep learning system for multi-label ECG arrhythmia detection, supporting real-time inference and clinical decision support using 12-lead ECG signals.",
+    tech: [
+      "Python",
+      "PyTorch",
+      "NumPy",
+      "Pandas",
+      "scikit-learn",
+      "Streamlit",
+      "CUDA",
+      "Deep Learning"
+    ],
+    github: "https://github.com/Surya-Teja-Kancharla/ECG-Decision-Support-System",
+    live: "https://ecg-decision-support-system.streamlit.app/"
   }
 ];
